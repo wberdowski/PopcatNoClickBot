@@ -4,6 +4,8 @@
 // @version      1.0
 // @description  Ban-proof popcat.click bot
 // @author       Wojciech Berdowski
+// @updateURL    https://github.com/wberdowski/PopcatNoClickBot/raw/main/bot.user.js
+// @downloadURL  https://github.com/wberdowski/PopcatNoClickBot/raw/main/bot.user.js
 // @match        https://popcat.click/*
 // @grant        none
 // ==/UserScript==
