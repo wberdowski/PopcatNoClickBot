@@ -1,4 +1,6 @@
 # Popcat no-click bot
+# Disclaimer
+This is a POC (Proof of concept) script and is provided only for educational purposes, nor is guaranteed to worki properly.
 ## How to install
 1. Install **Tampermonkey** extension in your browser. [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Firefox](https://addons.mozilla.org/pl/firefox/addon/tampermonkey/), [Opera](https://addons.opera.com/pl/extensions/details/tampermonkey-beta/).
 2. Download [bot.user.js](https://github.com/wberdowski/PopcatNoClickBot/raw/main/bot.user.js) and click **Install**.
